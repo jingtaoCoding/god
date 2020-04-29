@@ -1,4 +1,5 @@
 # God
+[![Coverage Status](https://coveralls.io/repos/github/jingtaoCoding/god/badge.svg?branch=master)](https://coveralls.io/github/jingtaoCoding/god?branch=master)
 
 To start your Phoenix server:
 
